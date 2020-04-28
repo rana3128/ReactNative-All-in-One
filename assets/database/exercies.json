@@ -1,0 +1,10 @@
+{
+  "chest": [
+    {
+      "id": 001,
+      "name": "Barbell Bench Press",
+      "image": "bench_press.jpg",
+      "discribtion": "Lie face up on a flat bench, and grip a barbell with the hands slightly wider than shoulder-width. Press the feet into the ground and the hips into the bench while lifting the bar off the rack. Slowly lower the bar to the chest by allowing the elbows to bend out to the side. Stop when the elbows are just below the bench, and press feet into the floor to press the weight straight up to return to the starting position."
+    }
+  ]
+}

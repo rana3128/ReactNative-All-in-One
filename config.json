@@ -1,0 +1,6 @@
+{
+    "appDataServer" : "http://fitinn.ueuo.com",
+    "DBpath" : "appData/ExerciseDataBase.json",
+    "DBfolder": "appData",
+    "imagesPath" : "images"
+}
